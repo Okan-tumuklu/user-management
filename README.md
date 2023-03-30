@@ -1,2 +1,1 @@
-# user-management
-A tool that makes it easy for you to manage its users
+A tool that makes it easier for you to manage your users in linux while developing myself.
